@@ -1,2 +1,3 @@
+import _ from 'lodash';
 
-console.log("!hola, codica¡");
+console.log(_.last(['uno', 'dos']));
