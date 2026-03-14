@@ -11,5 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.23"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.3",
+    "jest": "^30.3.0"
   }
 }
